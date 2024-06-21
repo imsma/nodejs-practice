@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "A repository for practicing Node.js through various exercises and projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imsma/nodejs-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "practice",
+    "exercises",
+    "projects"
+  ],
+  "author": "Shoket Mahmood Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imsma/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/imsma/nodejs-practice#readme"
+}
